@@ -27,7 +27,7 @@ JS      ███████████████░░░░░ 75%
 TS      ███████████████░░░░░ 75%
 HTML    ███████████████░░░░░ 75%
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emericlaberge&show_icons=true&locale=en&layout=compact" alt="emericlaberge" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emericlaberge&show_icons=true&locale=en" alt="emericlaberge" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emericlaberge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emericlaberge" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emericlaberge&show_icons=true&locale=en&theme=tokyonight" alt="emericlaberge" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emericlaberge&" alt="emericlaberge" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emericlaberge&theme=tokyonight" alt="emericlaberge" /></p>
 
