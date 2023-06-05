@@ -27,7 +27,20 @@ JS      ███████████████░░░░░ 75%
 TS      ███████████████░░░░░ 75%
 HTML    ███████████████░░░░░ 75%
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emericlaberge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emericlaberge" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emericlaberge&show_icons=true&locale=en&theme=tokyonight" alt="emericlaberge" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emericlaberge&theme=tokyonight" alt="emericlaberge" /></p>
+## 🌱 What I'm Learning
+I'm currently focusing on expanding my knowledge in the following areas:
+- Machine Learning and AI
+- Web Development (particularly with JavaScript frameworks)
+- Advanced Algorithms and Data Structures
+
+## 📈 My GitHub Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=emericlaberge&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emericlaberge&show_icons=true&locale=en&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=emericlaberge&theme=tokyonight)
+
+## 📬 How to Reach Me
+Feel free to reach out if you have any questions, or if you just want to chat about coding and technology! Here's where you can find me:
+- [Email](mailto:emericlaberge@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emeric-laberge-67bb2a193/)
 
