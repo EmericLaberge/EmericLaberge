@@ -35,9 +35,9 @@ I'm currently focusing on expanding my knowledge in the following areas:
 - Advanced Algorithms and Data Structures
 
 ## 📈 My GitHub Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=emericlaberge&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emericlaberge&show_icons=true&locale=en&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=emericlaberge&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=EmericLaberge&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmericLaberge&show_icons=true&locale=en&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EmericLaberge&theme=tokyonight)
 
 ## 📬 How to Reach Me
 Feel free to reach out if you have any questions, or if you just want to chat about coding and technology! Here's where you can find me:
