@@ -11,9 +11,3 @@
 LBIT @ Université de Montréal. I work on bioinformatics (phylogenetics, genome rearrangement).
 
 Interests: computational biology (phylogenetics, genome rearrangement, parsimony under inversion and loss models), algorithms and data structures, self-hosting, agentic systems, Linux, LaTeX.
-
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmericLaberge&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmericLaberge&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
